@@ -1,3 +1,3 @@
 # Drons Dashboard
 
-Dashboard with meteo dashboard displays several locaions
+Meteo dashboard that displays several locations for dron navigation
